@@ -1,0 +1,19 @@
+div{
+	width:50px;
+	height:50px;
+	border:2px solid black;
+}
+.first{
+	background-color:blue;
+	color:white;	
+}
+
+.second{
+	background-color:yellow;
+	color:red;
+}
+
+.third{
+	background-color:red;
+	color:green;
+}

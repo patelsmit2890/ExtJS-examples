@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Chart&apos;&#x0D;&#x0A;- Original project: &apos;ChartPrj&apos;&#x0D;&#x0A;- Destination element: &apos;Chart&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     chart.js&#x0D;&#x0A;     turnoverdetails.json&#x0D;&#x0A;     chartest.html" description="Copy files" element1="WebContent/chart.js" element2="WebContent/turnoverdetails.json" element3="WebContent/chartest.html" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1415342309357" target="/ExtJS4.0_Demo/WebContent/Chart" units="0" version="1.0"/>
+</session>

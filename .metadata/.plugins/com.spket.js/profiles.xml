@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profiles>
+<profile id="ExtJs" name="ExtJs">use namespace ExtJS;
+include 'C:\\Tomcat\\webapps\\ext-4.0.7\\bootstrap.js';
+include 'C:\\Tomcat\\webapps\\ext-4.0.7\\ext-all-debug-w-comments.js';
+include 'C:\\Tomcat\\webapps\\ext-4.0.7\\ext-all-debug.js';
+include 'C:\\Tomcat\\webapps\\ext-4.0.7\\ext-all-dev.js';
+include 'C:\\Tomcat\\webapps\\ext-4.0.7\\ext-dev.js';
+include 'C:\\Tomcat\\webapps\\ext-4.0.7\\ext.js';
+</profile>
+</profiles>

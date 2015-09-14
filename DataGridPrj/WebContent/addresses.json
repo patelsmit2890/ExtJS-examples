@@ -1,0 +1,19 @@
+[
+{id:1,
+location:"WhiteField",
+city:"Bangalore"
+},
+{id:2,
+location:"Vijay Nagar",
+city:"Bangalore"
+},
+{id:3,
+location:"A Silk Board",
+city:"Bangalore"
+},
+{id:4,
+location:"BTM",
+city:"Bangalore"
+}
+
+]

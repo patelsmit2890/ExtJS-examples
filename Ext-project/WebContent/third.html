@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link href = "/extjs/resources/css/ext-all.css" rel="styleSheet" type="text/css">
+<script type="text/javascript" src="/extjs/ext-all.js"></script>
+<script type="text/javascript" src="third.js"></script>
+
+<script type="text/javascript">
+
+Ext.define("Employee",{
+ 	config:{
+ 	id:0,
+ 	name:"",
+	designation:""
+ 	},
+ constructor:function(config){
+ 	this.initConfig(config);
+ },
+ printDetails:function(){
+ 
+ console.log(this.id+"\t"+this.name+"\t"+this.designation);
+ 	//alert(this.id+"\t"+this.name+"\t"+this.designation);
+ }
+ }
+ );
+ 
+ Ext.onReady(function(){
+ 
+ 	var emp1 = Ext.create("Employee",{id:1,name:"Rajiv",designation:"Developer"});
+ 	console.log(emp1.getId()+"\t"+emp1.getName()+"\t"+emp1.getDesignation());
+ });
+ 
+</script>
+</head>
+<body>
+
+</body>
+</html>
